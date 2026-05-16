@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐒ᴛʀᴀɴɢᴇʀ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 ʀᴏɴᴇʏ 𝘅 𝐌ᴜsɪᴄ 」─
 
 </h2>
 
@@ -42,7 +42,7 @@ Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GOD-FATHER-papa/RONEYMUSIC-"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br>
 
